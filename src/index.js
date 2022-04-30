@@ -13,7 +13,6 @@ export const changeStringCase = (string, stringCase) => {
       return string;
   }
 };
-
 /**
  * @param {number[]} array
  * @returns {number}
